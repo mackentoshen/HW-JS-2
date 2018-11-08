@@ -30,6 +30,3 @@ function js(text){
 
 console.log(js(a));
 console.log(js(b));
-
-// alert(js("function test(){ alert(); }"));
-// alert(js("function test)({ alert(); }"));
